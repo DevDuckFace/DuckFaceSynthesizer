@@ -1,5 +1,5 @@
 # DUCK FACE — Analog Bass Line Synthesizer (virtual)
-
+[Download HERE](https://github.com/DevDuckFace/DuckFaceSynthesizer/releases/download/synth1.0/DuckFaceSynth-Setup-1.0.0.exe)
 
 ## Funcionalidades (baseadas no TD-3 / TD-3-MO)
 - VCO analógico modelado (polyBLEP): ondas **Sawtooth** e **Square** (chave WAVEFORM)
